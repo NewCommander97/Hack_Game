@@ -1,0 +1,6 @@
+c:\users\tim\documents\visual studio 2015\Projects\Hack Game\Hack Game\bin\Debug\Hack Game.exe.config
+c:\users\tim\documents\visual studio 2015\Projects\Hack Game\Hack Game\bin\Debug\Hack Game.exe
+c:\users\tim\documents\visual studio 2015\Projects\Hack Game\Hack Game\bin\Debug\Hack Game.pdb
+c:\users\tim\documents\visual studio 2015\Projects\Hack Game\Hack Game\obj\Debug\Hack Game.csprojResolveAssemblyReference.cache
+c:\users\tim\documents\visual studio 2015\Projects\Hack Game\Hack Game\obj\Debug\Hack Game.exe
+c:\users\tim\documents\visual studio 2015\Projects\Hack Game\Hack Game\obj\Debug\Hack Game.pdb
