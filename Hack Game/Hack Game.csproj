@@ -52,6 +52,7 @@
     <Compile Include="ConsoleTable.cs" />
     <Compile Include="File.cs" />
     <Compile Include="IP Address.cs" />
+    <Compile Include="Level.cs" />
     <Compile Include="Mail Program.cs" />
     <Compile Include="Network Device.cs" />
     <Compile Include="Network.cs" />
